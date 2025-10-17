@@ -18,9 +18,5 @@ This image gives an idea of what the game would look like at a glance.
 ### Image 3 | Gameplay Flow
 This image shows how the player would go about defeating enemies.
 
-### Image 4 | Character and Weapon Concepts
-This image shows working designs for the characters and weapons.
-
-### Image 5 | Ranking
+### Image 4 | Ranking
 This image shows the completion of a level and the player recieving a rank. 
-
